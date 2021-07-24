@@ -16,7 +16,7 @@ I'm pursuing my bachelor's degree in Computer Science and Engineering, specializ
 ## :chart_with_upwards_trend: GitHub Stats ![](https://komarev.com/ghpvc/?username=charitha-madala)
 
 <br>
-<br>
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=charitha-madala&count_private=true&theme=tokyonight&showicons=true)]()
