@@ -1,5 +1,5 @@
 ### Hey, I'm Charitha!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm pursuing my bachelor's degree in Computer Science and Engineering, specializing in Artificial Intelligence. I enjoy stepping out of my comfort to learn new things that help me grow.
+I'm pursuing my master's degree in Artificial Intelligence. I have worked for Morgan Stanley as a Senire tech associate. I am proficient in python, java, sybase, angular and docker. I enjoy stepping out of my comfort to learn new things that help me grow. 
 
 
 #### LANGUAGES & FRAMEWORKS:  
